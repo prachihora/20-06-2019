@@ -1,0 +1,7 @@
+Assignments (June 20, 2019):
+
+1.) Javascript Assignment2:
+Program1 (Display Month)		:  https://jsfiddle.net/prachihora/qtzrvmxe/8/
+Program2 (Calculate Compound Interest)	:  https://jsfiddle.net/prachihora/j4xLev5m/6/
+
+2.) HTML Assignment1			:  https://jsfiddle.net/prachihora/z9q5rf1L/15/
