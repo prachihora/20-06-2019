@@ -1,0 +1,26 @@
+Javascript Assignment3-->
+
+Program1: https://jsfiddle.net/prachihora/81ncxvyt/22/
+Program2: https://jsfiddle.net/prachihora/o2nghj4t/4/
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+Javascript Class Assignment-->
+
+Program1: Create a JavaScript function that returns a passed string with letters in alphabetical order.
+	  URL: https://jsfiddle.net/prachihora/1pxzj26d/10/
+
+Program2: Write a JavaScript function that accepts a string as a parameter and find the largest word within the String.
+	  URL: https://jsfiddle.net/prachihora/uw4b6tgf/
+
+Program3: Write a JavaScript program to get the current date.
+	  URL: https://jsfiddle.net/prachihora/sgu3f7yj/5/
+
+Program4: Write a JavaScript program to find which 1st January is being a Sunday between 2000 and 2050.
+	  URL: https://jsfiddle.net/prachihora/sgu3f7yj/12/
+
+Program5: Write a JavaScript program to calculate days left until next christmas.
+	  URL: https://jsfiddle.net/prachihora/je41kyxp/2/
+
+Program6: Write a JavaScript program to remove a character at the specified position of a given string and return the new string.
+	  URL: https://jsfiddle.net/prachihora/xLjzb92n/1/
