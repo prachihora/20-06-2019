@@ -1,0 +1,7 @@
+JS DOM Assignment:
+
+Program1: https://jsfiddle.net/prachihora/t6frm4c2/1/
+Program2: https://jsfiddle.net/prachihora/2db13ars/1/
+Program3: https://jsfiddle.net/prachihora/rbu4kp5j/4/
+Program4: https://jsfiddle.net/prachihora/2db13ars/4/
+Program5: https://jsfiddle.net/prachihora/vweok3ja/
