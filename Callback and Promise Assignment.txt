@@ -1,0 +1,19 @@
+JS Callback Promise Assignment:
+
+Program1: Radio Button Color Change:
+	  https://jsfiddle.net/prachihora/czn41Lov/4/
+
+Program2: Use Promise to prompt alert after two seconds:
+	  https://jsfiddle.net/prachihora/dez152wa/
+
+Program3: Binding promise callbacks:
+	  https://jsfiddle.net/prachihora/9kjfsa3b/
+
+Program4: Show error if result is returning false
+	  https://jsfiddle.net/prachihora/fqad9r4p/2/
+
+Program5: Do multiple task if error came or returned false
+	  https://jsfiddle.net/prachihora/02a3uqw4/1/
+
+Program6:  Callback and Promise
+	  https://jsfiddle.net/prachihora/juLmp3o6/5/     (Enter username as prachi and password as prac)
